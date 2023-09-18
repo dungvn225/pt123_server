@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "bookroom",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "u9ps0ybtxlc4j2o8",
+    "password": "DhchESHW2IvnEsicG5Cz",
+    "database": "bl1hjqd8duzikgrgcdfz",
+    "host": "bl1hjqd8duzikgrgcdfz-mysql.services.clever-cloud.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "u9ps0ybtxlc4j2o8",
+    "password": "DhchESHW2IvnEsicG5Cz",
+    "database": "bl1hjqd8duzikgrgcdfz",
+    "host": "bl1hjqd8duzikgrgcdfz-mysql.services.clever-cloud.com",
+    "dialect": "mysql"
+  }
+}
+
+ 
